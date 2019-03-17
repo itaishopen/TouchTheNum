@@ -7,7 +7,6 @@ var gPlayerName = null;
 function initGame() {
   var elGame = document.querySelector('.game');
   elGame.classList.remove('blur');
-  console.log(gPlayerName)
   if (gPlayerName === null) {
     gPlayerName = prompt('Please enter your name');
   }
