@@ -1,4 +1,4 @@
-var gCurrentNum;
+//  var gCurrentNum;
 var gBoard;
 var gTimerInterval;
 var gRecordBoard = new Map();
